@@ -4,8 +4,7 @@
 4. @chavus ChavaJ
 5. @alfredopizana Alfredo Pizana
 6. @carlosalcala30 carlos alcala
-6. @bulmaroarellano Bulmaro arellano
-7. @bulmaroarellano Bulmaro arellano
+7. @bulmaroarellano Bulmaro arellano 
 8. @JesusSanchezPluma Jesus
 9. @oscar Oscar rodriguez
 10. @j0nrey jonathans
@@ -13,5 +12,8 @@
 12. @karenascencio karenascencio
 13. @hectoralrz Hector Alcaraz
 14. @FreddyCastuera jorge castuer
-15. @MiguelAngelMG42 Miguel
+15. @redwolf357 - Gerardo Jimenez
+16. @j-antonio42 antonio ibarra
+18. @MiguelAngelMG42 Miguel
+
 
