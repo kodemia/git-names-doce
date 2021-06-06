@@ -4,5 +4,4 @@
 4. @chavus ChavaJ
 5. @alfredopizana Alfredo Pizana
 6. @carlosalcala30 carlos alcala
-7. @bulmaroarellano Bulmaro arellano
-8. @j-antonio42 antonio ibarra 
+7. @bulmaroarellano Bulmaro arellano 
