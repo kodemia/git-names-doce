@@ -18,4 +18,8 @@
 11. @mwortegam wendy ortega
 12. @karenascencio karenascencio
 13. @hectoralrz Hector Alcaraz
+<<<<<<< HEAD
 >>>>>>> 59438078d33bf9fbf2a030c70d961d2d4fb9d468
+=======
+14. @FreddyCastuera jorge castuer
+>>>>>>> bb7344c23fedfbc78e3cc3fbf8bdc9f655d015b8
