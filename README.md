@@ -7,19 +7,9 @@
 6. @bulmaroarellano Bulmaro arellano
 7. @bulmaroarellano Bulmaro arellano
 8. @JesusSanchezPluma Jesus
-<<<<<<< HEAD
-
-
-9. @MiguelAngelMG42 miguel
-=======
 9. @oscar Oscar rodriguez
-<<<<<<< HEAD
->>>>>>> origin
-=======
-10. @j0nrey jonathan
+10. @j0nrey jonathans
 11. @mwortegam wendy ortega
-<<<<<<< HEAD
->>>>>>> origin
-=======
 12. @karenascencio karenascencio
->>>>>>> master
+13. @hectoralrz Hector Alcaraz
+14. @MiguelAngelMG42 Miguel
