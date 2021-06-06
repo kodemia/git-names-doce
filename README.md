@@ -8,8 +8,5 @@
 8. @JesusSanchezPluma Jesus
 9. @oscar Oscar rodriguez
 10. @j0nrey jonathan
-<<<<<<< HEAD
-11. @karenascencio Karen
-=======
 11. @mwortegam wendy ortega
->>>>>>> origin
+12. @karenascencio karenascencio
