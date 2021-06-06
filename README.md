@@ -7,4 +7,4 @@
 7. @bulmaroarellano Bulmaro arellano
 8. @JesusSanchezPluma Jesus
 9. @oscar Oscar rodriguez
-10. @hectoralrz
+10. @j0nrey jonathans
