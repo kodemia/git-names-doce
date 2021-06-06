@@ -18,4 +18,8 @@
 =======
 10. @j0nrey jonathan
 11. @mwortegam wendy ortega
+<<<<<<< HEAD
 >>>>>>> origin
+=======
+12. @karenascencio karenascencio
+>>>>>>> master
