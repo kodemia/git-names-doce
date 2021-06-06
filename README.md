@@ -9,4 +9,8 @@
 9. @oscar Oscar rodriguez
 10. @j0nrey jonathan
 11. @mwortegam wendy ortega
-12. @FreddyCastuera jorge castuera
+
+13. @FreddyCastuera jorge castuera
+
+12. @karenascencio karenascencio
+
