@@ -7,6 +7,10 @@
 6. @bulmaroarellano Bulmaro arellano
 7. @bulmaroarellano Bulmaro arellano
 8. @JesusSanchezPluma Jesus
+<<<<<<< HEAD
 
 
 9. @MiguelAngelMG42 miguel
+=======
+9. @oscar Oscar rodriguez
+>>>>>>> origin
