@@ -7,4 +7,8 @@
 7. @bulmaroarellano Bulmaro arellano
 8. @JesusSanchezPluma Jesus
 9. @oscar Oscar rodriguez
+<<<<<<< HEAD
 10. @Xochitl44 xochitl moreno
+=======
+10. @j0nrey jonathan
+>>>>>>> f98fa0848e6a9dae87eb42681369a03addf33d33
