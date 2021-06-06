@@ -7,7 +7,9 @@
 7. @bulmaroarellano Bulmaro arellano 
 8. @JesusSanchezPluma Jesus
 9. @oscar Oscar rodriguez
-10. @j0nrey jonathan
+10. @j0nrey jonathans
 11. @mwortegam wendy ortega
 12. @karenascencio karenascencio
-13. @j-antonio42 antonio
+13. @hectoralrz Hector Alcaraz
+
+15.@j-antonio42 antonio ibarra
