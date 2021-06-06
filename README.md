@@ -13,4 +13,9 @@
 9. @MiguelAngelMG42 miguel
 =======
 9. @oscar Oscar rodriguez
+<<<<<<< HEAD
+>>>>>>> origin
+=======
+10. @j0nrey jonathan
+11. @mwortegam wendy ortega
 >>>>>>> origin
