@@ -14,6 +14,6 @@
 14. @FreddyCastuera jorge castuer
 15. @redwolf357 - Gerardo Jimenez
 16. @j-antonio42 antonio ibarra
-18. @MiguelAngelMG42 Miguel
-
+17. @Misa-el - Misael
+18. @MiguelAngelMG42 Miguel Angel
 
