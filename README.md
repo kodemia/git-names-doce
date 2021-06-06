@@ -16,4 +16,5 @@
 7. @bulmaroarellano Bulmaro arellano
 8. @JesusSanchezPluma Jesus
 9. @oscar Oscar rodriguez
-10. @karenascencio karen
+10. @j0nrey jonathan
+11. @karenascencio Karen
