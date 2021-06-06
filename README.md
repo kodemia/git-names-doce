@@ -8,3 +8,5 @@
 8. @JesusSanchezPluma Jesus
 9. @oscar Oscar rodriguez
 10. @j0nrey jonathans
+11. @mwortegam wendy ortega
+12. @Hectoralrz Hector Alcaraz
