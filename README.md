@@ -5,4 +5,8 @@
 5. @alfredopizana Alfredo Pizana
 6. @carlosalcala30 carlos alcala
 6. @bulmaroarellano Bulmaro arellano
-7. @MiguelAngelMG42 Miguel
+7. @bulmaroarellano Bulmaro arellano
+8. @JesusSanchezPluma Jesus
+
+
+9. @MiguelAngelMG42 miguel
