@@ -7,6 +7,8 @@
 7. @bulmaroarellano Bulmaro arellano
 8. @JesusSanchezPluma Jesus
 9. @oscar Oscar rodriguez
-
-
-13. @redwolf357 - Gerardo Jimenez
+10. @j0nrey jonathans
+11. @mwortegam wendy ortega
+12. @karenascencio karenascencio
+13. @hectoralrz Hector Alcaraz
+14. @redwolf357 - Gerardo Jimenez
